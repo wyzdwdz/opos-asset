@@ -1,0 +1,13 @@
+{
+    "name": "OPOS",
+    "symbol": "OPOS",
+    "description": "Only Possible On Solana",
+    "seller_fee_basis_points": 0,
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperToolkit/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Toolkit"
+      }
+    ]
+  }
