@@ -1,12 +1,12 @@
 {
-    "name": "OPOS",
-    "symbol": "OPOS",
-    "description": "Only Possible On Solana",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "name": "WWZZ",
+    "symbol": "WWZZ",
+    "description": "Just For Test",
+    "image": "https://raw.githubusercontent.com/wyzdwdz/opos-asset/refs/heads/main/assets/DeveloperPortal/image.jpg",
     "attributes": [
       {
-        "trait_type": "Item",
-        "value": "Developer Portal"
+        "trait_type": "Worth",
+        "value": "Priceless"
       }
     ]
   }
